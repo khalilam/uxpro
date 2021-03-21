@@ -63,7 +63,17 @@ body {
     align-items: center;
     min-height: 100vh;
     flex-direction: column;
-    
+
+}
+
+.wrapper, .search-data{
+    top: 18%;
+    left: 86%;
+    transform: translate(-50%, -50%);
+}
+
+.wrapper{
+    position: absolute;
 }
 
 footer{

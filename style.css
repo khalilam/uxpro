@@ -74,6 +74,15 @@ body {
 
 .wrapper{
     position: absolute;
+    border-radius: 100%;
+}
+
+.search-data{
+    position: absolute;
+    height: 40px;
+    width: 400px;
+    display: flex;
+    text-align: center;
 }
 
 footer{

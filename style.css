@@ -71,3 +71,22 @@ footer h2{
     color: #EAE6D1;
     list-style: none;
 }
+
+.footerlogo{
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.footer_bottom{
+    color: #EAE6D1;
+    width: 100vw;
+    padding-bottom: 10px 0px;
+}
+
+.footer_bottom p{
+    font-size: 14px;
+    word-spacing: 2px;
+    text-transform: capitalize;
+    
+}

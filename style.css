@@ -23,9 +23,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #F0EADA;
-    margin: 0;
-}
+    background-color: #F0EADA;}
 
 header .logo{
     height: 80px;

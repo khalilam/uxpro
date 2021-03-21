@@ -23,7 +23,7 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color: #EAE6D1;
+    background-color: #F0EADA;
     margin: 0;
 }
 
@@ -63,7 +63,7 @@ body {
     align-items: center;
     min-height: 100vh;
     flex-direction: column;
-
+    
 }
 
 footer{

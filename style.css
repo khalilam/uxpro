@@ -28,7 +28,7 @@ header{
 }
 
 header .logo{
-    height: 100px;
+    height: 80px;
     display: flex;
     position: relative;
     max-width: 80px;

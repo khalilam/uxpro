@@ -54,17 +54,20 @@ footer{
     width: 100%;
     height: auto;
     padding: 50px 100px;
-    background: #111;
+    background: #2A2A2A;
     display: flex;
     justify-content: space-between;
     flex-wrap: wrap;
 }
 
 footer h2{
-    color: white;
+    color: #EAE6D1;
+    border-bottom: 2px solid #EAE6D1;
+    padding-bottom: 5px;
+    width: 35%;
 }
 
 .info{
-    color: white;
+    color: #EAE6D1;
     list-style: none;
 }

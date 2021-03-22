@@ -70,7 +70,8 @@ body {
     background: white;
     width: max-content;
     display: inline-block;
-    margin: 8px;
+    margin-left: 80%;
+    margin-top: -530px;
 }
 
 .search-box:hover{
